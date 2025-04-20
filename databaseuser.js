@@ -4,7 +4,7 @@
     "password": "12345"
   },
   {
-    "username": "putucuy",
-    "password": "abcde"
+    "username": "putz",
+    "password": "putz"
   }
 ]
